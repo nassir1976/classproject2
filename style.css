@@ -1,8 +1,37 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: aqua;
+    background-color: whitesmoke;
 }
 h1{
     color: rgb(176, 176, 238);
 }
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+ 
+  
+  .topnav a.active {
+    background-color: black;
+    color: white;
+  }
+
+  .logo{
+      background-color : rebeccapurple;
+    
+  .ford{
+      height: 283px;
+      width:178;
+  }
